@@ -2,7 +2,7 @@
 
 Este documento fue elaborado por: Alejandro Antonio De La Cruz Charun
 
-:fontawesome-brands-linkedin (https://www.linkedin.com/in/alejandro-antonio-de-la-cruz-charun-a7805a21b/)
+:fontawesome-brands-linkedin: (https://www.linkedin.com/in/alejandro-antonio-de-la-cruz-charun-a7805a21b/)
 
 
 ## 📌 Descripción
