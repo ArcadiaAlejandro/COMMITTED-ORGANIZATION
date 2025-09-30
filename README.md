@@ -2,8 +2,9 @@
 
 Este documento fue elaborado por: Alejandro Antonio De La Cruz Charun
 
-:fontawesome-brands-linkedin:{style="color: #0A66C2; font-size: 40px;"}
-(https://www.linkedin.com/in/alejandro-antonio-de-la-cruz-charun-a7805a21b/)
+[![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/alejandro.charun)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/alejandro-antonio-de-la-cruz-charun-a7805a21b/)
+[![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:alejandrodelacruzcharun@gmail.com)
 
 
 ## 📌 Descripción
